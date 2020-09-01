@@ -1,4 +1,4 @@
-export default links => `
+export default (links) => `
 <nav id="Nav">
 <i class="fas fa-bars"></i>
 <ul class ="hidden--mobile nav-links">

@@ -1,5 +1,6 @@
 import * as views from "./views";
 
-export default st => `
-${views[st.view](st)}
+console.log(views.Menu);
+export default (st) => `
+${views[st.page](st)}
 `;

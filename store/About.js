@@ -1,3 +1,4 @@
 export default {
-  header: "Pets"
+  header: "Pets",
+  page: "About"
 };
